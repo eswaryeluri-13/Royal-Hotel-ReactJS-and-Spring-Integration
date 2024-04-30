@@ -43,10 +43,6 @@ This project aims to provide a comprehensive hotel management system built with 
 3. **Accessing the Application**:
    - Open your browser and go to `http://localhost:3000` to access the hotel management system.
 
-## Contributors
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
